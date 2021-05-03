@@ -1,0 +1,40 @@
+ 
+
+.App{
+    font-family:sans-serif;
+   
+}
+
+.navbar {
+    border: 2px solid #e7e7e8;
+    background-color:black;
+    height: 70px;
+   
+}
+
+.nav-item{
+    padding: 20px;
+    color: white;
+    font-weight:400;
+    font-size: large;
+    text-decoration: none;
+}
+
+ 
+.heading{
+    float: left;
+    
+    font-size:xx-large;
+    color:white;
+}
+
+.links{
+    margin-right: 0px;
+    float: right;
+} 
+.menu{
+    color: white;
+    font-weight:400;
+    font-size: large;
+    text-decoration: none;
+}

@@ -1,0 +1,20 @@
+ 
+.voter_card_container {
+    padding: 16px 16px 16px 16px;
+    display:flex; flex-direction:row;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    margin: 8px;
+    font-size: larger;
+    transition: 0.5s;
+    border-radius: 5px;
+      
+    
+  }
+  .voter_card_container:hover {
+    box-shadow: 0 12px 24px 0 rgba(0,0,0,0.2);
+  }
+.voter_card_item{
+    margin: 4px;
+    width: 25%;
+    
+}

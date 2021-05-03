@@ -1,0 +1,32 @@
+.navbar {
+    border: 2px solid #e7e7e8;
+    background-color:black;
+    height: 70px;
+   
+}
+
+.heading{
+    float: left;
+    font-size:xx-large;
+    color:white;
+}
+
+.title{
+    float: right;
+    color: white;
+    font-size:larger;
+}
+
+
+.result_container {
+    padding: 16px 16px 16px 16px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+
+  }
+.result_graph{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+
+}
+.result_graph:hover {
+    box-shadow: 0 12px 24px 0 rgba(0,0,0,0.2);
+  }
